@@ -22,7 +22,6 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: var(--Dark-Blue);
-  margin: 0 1rem;
 }
 
 .advice--container {
